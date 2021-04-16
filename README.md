@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Korru ,a ordinary student.
+My name is RuruKo ,a ordinary student.
 
 <!--
 **Korrru/Korrru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
